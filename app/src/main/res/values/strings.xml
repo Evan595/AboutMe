@@ -2,6 +2,8 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Evan Sun</string>
     <string name = "yellow_star">Yellow star</string>
+    <string name= "whats_ur_nick_name">What is your Nickname?</string>
+    <string name="done">Done</string>
     <string name="bio">
         Hi, my name is Evan. I love fish.
         The kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
